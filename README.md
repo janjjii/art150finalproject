@@ -1,8 +1,11 @@
 # art150finalproject
 
-download keypad.ino in arduino and music101.pde in processing.
+copy/paste keypad.ino in arduino and music101.pde in processing.
 input data is taken from arduino and brought to processing by
-the shared Serial library.
+the shared Serial library. data folder and treble.png must be 
+downloaded in the same folder as music101.pde. data must also be 
+downloaded as a folder and not as individual files. 
+
 
 KEYPAD KEY:
 1 - C4
