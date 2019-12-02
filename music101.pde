@@ -58,7 +58,7 @@ void octaveit(String note, char x)
 void playit(char letter)
 {
   // load an mp3 file from the /data of this sketch
-  if(letter == 'c'){c = new SoundFile(this, "c.mp3");} //c.play(1.0);}
+  if(letter == 'c'){c = new SoundFile(this, "c.mp3"); c.play(1.0);}
   if(letter == 'd'){d = new SoundFile(this, "d.mp3"); d.play(1.0);}
   if(letter == 'e'){e = new SoundFile(this, "e.mp3"); e.play(1.0);}
   if(letter == 'f'){f = new SoundFile(this, "f.mp3"); f.play(1.0);}
