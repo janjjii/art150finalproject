@@ -6,6 +6,7 @@ the shared Serial library. data folder and treble.png must be
 downloaded in the same folder as music101.pde. data must also be 
 downloaded as a folder and not as individual files. 
 
+***IGNORE THE FINALFINAL/DATA FILE
 
 KEYPAD KEY:
 1 - C4
